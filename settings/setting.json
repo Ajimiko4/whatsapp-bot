@@ -1,8 +1,8 @@
 {
     "limitCount": 10,
     "ownerNumber": "6281232444391@c.us",
-    "memberLimit": 10,
-    "groupLimit": 50,
+    "memberLimit": 30,
+    "groupLimit": 2,
     "medialimitCount": "5",
     "prefix": "/",
     "halal": true,
